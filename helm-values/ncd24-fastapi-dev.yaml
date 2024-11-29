@@ -4,7 +4,7 @@ nodePort: 31002
 containerPort: 8000
 image:
   repository: ghcr.io/pantchanit/ncd24-fastapi
-  tag: dev-eb2bc1f
+  tag: dev-3cf3790
   pullPolicy: Always
 probe:
   enabled: true
